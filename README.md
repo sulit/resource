@@ -16,3 +16,28 @@
 #### 4. leveldb google键值存储库
 
 [https://github.com/google/leveldb](https://github.com/google/leveldb)
+
+#### 5. emacs lisp插件
+
+[https://github.com/purcell/emacs.d](https://github.com/purcell/emacs.d)
+
+
+#### 6. webmin 
+
+[https://github.com/webmin/webmin](https://github.com/webmin/webmin)
+
+#### 7. openwrt
+
+[https://github.com/openwrt-mirror/openwrt](https://github.com/openwrt-mirror/openwrt)
+
+#### 8. lua教程
+
+[https://github.com/cloudwu/lua53doc](https://github.com/cloudwu/lua53doc)
+
+#### 9. 免费的编程中文书籍索引
+
+[https://github.com/justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+
+#### 10. minix 操作系统源码
+
+[https://github.com/minix3/minix](https://github.com/minix3/minix)
