@@ -41,3 +41,11 @@
 #### 10. minix 操作系统源码
 
 [https://github.com/minix3/minix](https://github.com/minix3/minix)
+
+#### 11. readline库
+
+debian:
+```
+$apt-get source readline*
+```
+> * 为按tab之后看到的，下载相应的source
