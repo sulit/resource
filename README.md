@@ -44,12 +44,20 @@
 
 #### 11. readline库
 
-debian:
-```
-$apt-get source readline*
-```
-> * 为按tab之后看到的，下载相应的source
+  debian:
+  ```
+  $apt-get source readline*
+  ```
+  > * 为按tab之后看到的，下载相应的source
 
-9. fastdfs 分布式文件系统，国人在开源项目的基础上做了进一步的开发
+#### 12. fastdfs 分布式文件系统，国人在开源项目的基础上做了进一步的开发
 
-  [https://github.com/happyfish100/fastdfs](https://github.com/happyfish100/fastdfs)
+[https://github.com/happyfish100/fastdfs](https://github.com/happyfish100/fastdfs)
+
+#### 13. unix source
+
+[https://github.com/qrush/unix](https://github.com/qrush/unix)
+
+#### 14. redis
+
+[http://redis.io/](http://redis.io/)
