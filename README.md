@@ -61,3 +61,11 @@
 #### 14. redis
 
 [http://redis.io/](http://redis.io/)
+
+#### 15. tinyhttpd 轻量的http server，适合用于分析http server的本质
+
+  [https://github.com/ysboss/tinyhttpd](https://github.com/ysboss/tinyhttpd)
+
+#### 16. metasploit 渗透测试框架
+
+  [https://github.com/OpenWireSec/metasploit](https://github.com/OpenWireSec/metasploit)
