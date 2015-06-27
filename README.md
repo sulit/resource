@@ -77,3 +77,7 @@
   MIT OS learn
 
   [http://pdos.csail.mit.edu/6.828/2014/index.html](http://pdos.csail.mit.edu/6.828/2014/index.html)
+
+#### 18. systemd 初步学习
+
+  [https://wiki.archlinux.org/index.php/Systemd_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)](https://wiki.archlinux.org/index.php/Systemd_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
