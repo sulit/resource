@@ -1,6 +1,12 @@
 # resource
 值得学习的资源
 
+2018-8-1
+
+  - 虚拟机的几种网络配置（介绍的FreeBSD bhyve，其他虚拟机也适用）
+[http://empt1e.blogspot.com/2016/10/bhyve-networking-options.html](http://empt1e.blogspot.com/2016/10/bhyve-networking-options.html)
+
+++++++++++++++++++++++++++++++++++++++
 #### 1. fuse文件系统
 
 [https://github.com/fuse4x/fuse](https://github.com/fuse4x/fuse)
