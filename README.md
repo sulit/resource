@@ -1,9 +1,20 @@
 # resource
 值得学习的资源
 
+2018-8-2
+
+  - linux内核模块编程(kernel version 2.6)
+
+[http://www.tldp.org/LDP/lkmpg/2.6/html/lkmpg.html](http://www.tldp.org/LDP/lkmpg/2.6/html/lkmpg.html)
+
+  - linux内核模块编程(kernel version 2.4)
+
+[http://www.tldp.org/LDP/lkmpg/2.4/html/lkmpg.html](http://www.tldp.org/LDP/lkmpg/2.4/html/lkmpg.html)
+
 2018-8-1
 
   - 虚拟机的几种网络配置（介绍的FreeBSD bhyve，其他虚拟机也适用）
+
 [http://empt1e.blogspot.com/2016/10/bhyve-networking-options.html](http://empt1e.blogspot.com/2016/10/bhyve-networking-options.html)
 
 ++++++++++++++++++++++++++++++++++++++
