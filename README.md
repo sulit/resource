@@ -105,3 +105,7 @@
 
 #### 20. learn x in y minutes
   [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
+
+#### 21. 开发团队合作需要注意的一些问题
+
+  [CONTRIBUTING-SCRIPTS](./CONTRIBUTING-SCRIPTS.md)
